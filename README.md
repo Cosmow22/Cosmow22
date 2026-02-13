@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Vous pouvez m'envoyer un mail sur : <a href="mailto:contact@cosmow22.fr">contact@cosmow22.fr</a>
+
+Je suis ouvert à toute proposition !
+
 <!--
 **Cosmow22/Cosmow22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
